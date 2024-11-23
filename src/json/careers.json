@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "clave": "Todos"
+    },
+    {
+        "id": 1,
+        "name": "Licenciatura en Física",
+        "clave": "LIFI",
+        "dvision": "basicas"
+    },
+    {
+        "id": 2,
+        "name": "Licenciatura en Matemáticas",
+        "clave": "LIMA",
+        "dvision": "basicas"
+    },
+    {
+        "id": 3,
+        "name": "Licenciatura en Química",
+        "clave": "LQUI",
+        "dvision": "basicas"
+    },
+    {
+        "id": 4,
+        "name": "Químico Farmacéutico Biólogo",
+        "clave": "LQFB",
+        "dvision": "basicas"
+    },
+    {
+        "id": 5,
+        "name": "Licenciatura en Ciencias de Materiales",
+        "clave": "LCMA",
+        "dvision": "basicas"
+    },
+    {
+        "id": 6,
+        "name": "Inigería Civil",
+        "clave": "ICIV",
+        "dvision": "ingenierias"
+    },
+    {
+        "id": 7,
+        "name": "Inigeiería en Alimentos y Biotecnología",
+        "clave": "INAB",
+        "dvision": "ingenierias"
+    },
+    {
+        "id": 8,
+        "name": "Ingeniería en Topografía Geomética",
+        "clave": "ITOG",
+        "dvision": "ingenierias"
+    },
+    {
+        "id": 9,
+        "name": "Ingeniería Industrial",
+        "clave": "INDU",
+        "dvision": "ingenierias"
+    },
+    {
+        "id": 10,
+        "name": "Ingeniería Mecánica Eléctrica",
+        "clave": "INME",
+        "dvision": "ingenierias"
+    },
+    {
+        "id": 11,
+        "name": "Ingeniería Química",
+        "clave": "INQU",
+        "dvision": "ingenierias"
+    },
+    {
+        "id": 12,
+        "name": "Ingeniería en Logística y Transporte",
+        "clave": "ILOT",
+        "dvision": "ingenierias"
+    },
+    {
+        "id": 13,
+        "name": "Ingeniería Informática",
+        "clave": "INNI",
+        "dvision": "Divtic"
+    },
+    {
+        "id": 14,
+        "name": "Ingeniería en Biomédica",
+        "clave": "INBI",
+        "dvision": "Divtic"
+    },
+    {
+        "id": 15,
+        "name": "Ingeniería en Computación",
+        "clave": "INCO",
+        "dvision": "Divtic"
+    },
+    {
+        "id": 16,
+        "name": "Ingeniería en Comunicaciones y Electrónica",
+        "clave": "INCE",
+        "dvision": "Divtic"
+    },
+    {
+        "id": 17,
+        "name": "Ingeniería Fotónica",
+        "clave": "IGFO",
+        "dvision": "Divtic"
+    },
+    {
+        "id": 18,
+        "name": "Ingeniería Robótica",
+        "clave": "INRO",
+        "dvision": "Divtic"
+    }
+]

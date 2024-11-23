@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0,
+        "division": "Todos"
+    },
+    {
+        "id": 1,
+        "division": "basicas",
+        "career": [ "LIFI", "LIMA", "LQUI", "LQFB", "LCMA" ]
+    },
+    {
+        "id": 2,
+        "division": "ingenierias",
+        "career": [ "ICIV", "INAB", "ITOG", "INDU", "INME", "INQU", "ILOT" ]
+    },
+    {
+        "id": 3,
+        "division": "Divtic",
+        "career": [ "INNI", "INBI", "INCO", "INCe", "IGFO", "INRO" ]
+    }
+]

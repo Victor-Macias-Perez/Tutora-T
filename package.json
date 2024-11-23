@@ -1,0 +1,45 @@
+{
+  "name": "tutora-t-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^6.5.0",
+    "@google-cloud/storage": "^6.5.0",
+    "cloudinary": "^1.36.4",
+    "connect-mongo": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "firebase-admin": "^12.0.0",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.4",
+    "mongodb-legacy": "^4.0.0",
+    "mongoose": "^7.6.3",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.9.9",
+    "npm": "^10.5.2",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "path": "^0.12.7",
+    "streamifier": "^0.1.1",
+    "underscore": "^1.13.4",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "http-cache-semantics": ">=4.1.1",
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,5 @@
+
+/node_modules
+/services/config.env
+/.env
+src/services/config.env
